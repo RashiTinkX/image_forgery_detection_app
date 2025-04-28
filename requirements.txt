@@ -1,0 +1,1 @@
+pip install streamlit opencv-python scikit-image matplotlib tensorflow pytesseract langdetect
